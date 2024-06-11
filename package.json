@@ -1,0 +1,31 @@
+{
+  "name": "@eun/package",
+  "version": "1.0.0",
+  "description": "package test",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eunkyung-Son/package.git"
+  },
+  "author": "Eunkyung-Son",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eunkyung-Son/package/issues"
+  },
+  "homepage": "https://github.com/Eunkyung-Son/package#readme",
+  "keywords": [
+    "node.js",
+    "javascript",
+    "npm",
+    "pnpm",
+    "yarn",
+    "package",
+    "example",
+    "demo",
+    "hello world"
+  ]
+}
